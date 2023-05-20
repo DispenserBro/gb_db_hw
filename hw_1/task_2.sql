@@ -1,0 +1,1 @@
+SELECT * FROM test_courses.phone WHERE product_count > 2;
